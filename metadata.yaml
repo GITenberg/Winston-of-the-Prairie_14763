@@ -1,0 +1,41 @@
+_repo: Winston-of-the-Prairie_14763
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dunton, W. Herbert
+    alias: Dunton, Herbert
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '7987'
+    url: http://www.gutenberg.org/2009/agents/7987
+covers:
+- cover_type: archival
+  image_path: 14763-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: Though he lived much of his life in England, author Harold Bindloss never
+  forgot the Canadian prairies where he spent some time as a farmer in his early adulthood.
+  Weakened by disease later in life, Bindloss took up writing, and the vast majority
+  of his westerns were set in the rolling plains of Canada. Winston of the Prairie
+  is one of Bindloss' most acclaimed novels, and it's sure to please fans of classic
+  westerns.
+gutenberg_issued: '2005-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian fiction'
+- !lcc 'PS'
+- !lcsh 'Prairie Provinces -- Fiction'
+title: Winston of the Prairie
+url: http://www.gutenberg.org/ebooks/14763
